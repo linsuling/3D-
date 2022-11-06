@@ -18,8 +18,7 @@
 
 在资源商店搜索，下载资源Mini Legion Footman PBR HP Polyart
 
-
-<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A6_%E6%99%BA%E8%83%BD%E5%B7%A1%E9%80%BB%E5%85%B5/Images/Image.jpg" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A6_%E6%99%BA%E8%83%BD%E5%B7%A1%E9%80%BB%E5%85%B5/Images/pic0.jpg" />
 
 ## 实验步骤
 
@@ -31,10 +30,11 @@
 
 patrol动画控制器如下：
 
-
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A6_%E6%99%BA%E8%83%BD%E5%B7%A1%E9%80%BB%E5%85%B5/Images/pic1.jpg" />
 
 player动画控制器如下：
 
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A6_%E6%99%BA%E8%83%BD%E5%B7%A1%E9%80%BB%E5%85%B5/Images/pic2.jpg" />
 
 ## 脚本
 
@@ -54,3 +54,4 @@ player动画控制器如下：
 
 左下角为玩家，右上角的粉红方块为目的地，左上角显示当前分数，玩家需要控制人物不与巡逻兵相碰并到达目的地。
 
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A6_%E6%99%BA%E8%83%BD%E5%B7%A1%E9%80%BB%E5%85%B5/Images/Image.jpg" />
