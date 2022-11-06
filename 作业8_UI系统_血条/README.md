@@ -17,11 +17,11 @@ UGUI：
 
 效果如下：
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic1.jpg" />
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic2.jpg" />
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic3.jpg" />
 
 IMGUI：
 
@@ -31,8 +31,8 @@ IMGUI：
 
 效果如下：
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic4.png" />
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic5.png" />
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A8_UI%E7%B3%BB%E7%BB%9F_%E8%A1%80%E6%9D%A1/Images/pic6.png" />
