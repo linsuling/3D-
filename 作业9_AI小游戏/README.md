@@ -38,4 +38,4 @@
 
 游戏效果如下：
 
-<img src="https://" />
+<img src="https://github.com/linsuling/3D_game_homework_file/blob/main/%E4%BD%9C%E4%B8%9A9_AI%E5%B0%8F%E6%B8%B8%E6%88%8F/pic1.png" />
